@@ -35,7 +35,7 @@ This game was created as a **final project** for the *Introduction to Unity* cou
 
 ## 🌐 Play Online
 You can play **The Last Hand** here:  
-[**Play on itch.io**]((https://mike-avrius.itch.io/the-last-hand))
+[**Play on itch.io**](https://mike-avrius.itch.io/the-last-hand)
 
 ---
 
